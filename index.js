@@ -11,6 +11,7 @@ var i = 0
 var shoutedFacts = []
   while(i < facts.length) {
     shoutedFacts.push(`${facts}!!!`)
+    i++
   }
   return shoutedFacts
 }
