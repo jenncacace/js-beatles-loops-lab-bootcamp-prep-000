@@ -15,3 +15,12 @@ var shoutedFacts = []
   }
   return shoutedFacts
 }
+
+function iLoveTheBeatles(n){
+var array = []
+do{
+  array.push("I love the Beatles!")
+  n++
+} while n (n<15)
+return array
+}
