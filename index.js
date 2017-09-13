@@ -7,8 +7,8 @@ var array = []
 }
 
 function johnLennonFacts(facts){
-i = 0
-shoutedFacts = []
+var i = 0
+var shoutedFacts = []
   while(i < facts.length) {
     shoutedFacts.push(`${facts}!!!`)
   }
