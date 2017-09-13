@@ -5,3 +5,12 @@ var array = []
   }
   return array
 }
+
+function johnLennonFacts(facts){
+i = 0
+shoutedFacts = []
+  while(i < facts.length) {
+    shoutedFacts.push(`${facts}!!!`)
+  }
+  return shoutedFacts
+}
