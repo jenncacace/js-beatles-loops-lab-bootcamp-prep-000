@@ -21,6 +21,6 @@ var array = []
 do{
   array.push("I love the Beatles!")
   n++
-} while n (n<15)
+} while (n<15)
 return array
 }
