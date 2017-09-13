@@ -5,4 +5,3 @@ array = []
   }
   return array
 }
-
